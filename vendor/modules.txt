@@ -1,0 +1,11 @@
+# github.com/cilium/ebpf v0.10.1-0.20230203103632-211d862e0b70
+## explicit; go 1.18
+github.com/cilium/ebpf
+github.com/cilium/ebpf/asm
+github.com/cilium/ebpf/btf
+github.com/cilium/ebpf/internal
+github.com/cilium/ebpf/internal/sys
+github.com/cilium/ebpf/internal/unix
+# golang.org/x/sys v0.5.0
+## explicit; go 1.17
+golang.org/x/sys/unix
